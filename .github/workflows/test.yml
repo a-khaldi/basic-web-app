@@ -2,11 +2,11 @@ name: CI/CD Pipeline
 
 on:
 
-push:
+  push:
 
-branches:
+    branches:
 
-- main
+      - main
 
 jobs:
 
